@@ -1,16 +1,20 @@
-# QR Travel
+# QR Code Maker
 The project is simple. Make travelling on public transport less annoying (using QR codes and Python)
 
-**About QR Busing**
+**About the QR Code maker**
 
-QR Travel makes it easy to find out when your means of transport will arrive. It allows you to check the bus schedule by simply scanning a QR code.
+The program will create an optimal QR code depending on the data you wish to store.
 
 **Usage**
 
-1. Scan our QR code which are located on bus stop signs via your phones camera.      This will redirect you to google maps.
+1. Run the program.
 
-2. When you are on the bus stop's page click the under the subheading buses. This    will take you to the bus stops schedule.
+2. Input the desired file name. Inclue .png or .jpeg depending on what file you want to make.
+
+3. Then input the data you want to store. links work especially well, with simple sentences (according to my testing) only working on android - but that just me.
+
+heads up the QR codes will be stored in the direcotry where the program file resides.
 
 **Things to Note**
 
-If there is a bus stop you frequently use that does not have one of our QR codes. Please contact our staff @EME-YE.
+I will be working on storing images in QR codes and saving the files in custom location in later releases.
