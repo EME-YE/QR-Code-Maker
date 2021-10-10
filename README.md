@@ -1,5 +1,5 @@
 # QR Code Maker
-The project is simple. Make travelling on public transport less annoying (using QR codes and Python)
+The project is simple. Make QR codes less annoying to use (using QR codes and Python)
 
 **About the QR Code maker**
 
